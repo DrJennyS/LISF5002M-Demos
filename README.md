@@ -9,7 +9,7 @@ Currently this repository only contains clustering about the IMD. These instruct
 
 To use this repository during the workshop: 
 
-(A) Create a PRIVATE fork - this is your own virtual copy of this repository. 
-(B) Download the dataset(s) provided and make sure you know where they are located within your file structure.  
-(C) Open the jupyter-notebook `workshop.ipynb` in Code-space
-(D) Follow the instructions...
+A) Create a PRIVATE fork - this is your own virtual copy of this repository. 
+B) Download the dataset(s) provided and make sure you know where they are located within your file structure.  
+C) Open the jupyter-notebook `workshop.ipynb` in Code-space
+D) Follow the instructions...
